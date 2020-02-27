@@ -1,0 +1,6 @@
+https://www.asos.com/api/product/search/v2/categories/27110?channel=desktop-web&country=TW&currency=TWD&keyStoreDataversion=jqvkhhb-21&lang=en&limit=72&offset=0&rowlength=4&store=ROW
+https://www.asos.com/api/product/search/v2/categories/27110?channel=desktop-web&country=US&currency=USD&keyStoreDataversion=jqvkhhb-21&lang=en&limit=72&offset=0&rowlength=4&store=US
+https://www.asos.com/api/product/search/v2/categories/27110?channel=desktop-web&country=GB&currency=GBP&keyStoreDataversion=jqvkhhb-21&lang=en&limit=72&offset=0&rowlength=4&store=COM
+https://www.asos.fr/api/product/search/v2/categories/27110?channel=desktop-web&country=WF&currency=GBP&keyStoreDataversion=jqvkhhb-21&lang=fr&limit=72&offset=0&rowlength=4&store=FR
+https://www.asos.com/api/product/search/v2/categories/27110?channel=desktop-web&country=VI&currency=GBP&keyStoreDataversion=jqvkhhb-21&lang=en&limit=72&offset=0&rowlength=4&store=US
+https://www.asos.com/api/product/search/v2/categories/27110?channel=desktop-web&country=CX&currency=GBP&keyStoreDataversion=jqvkhhb-21&lang=en&limit=72&offset=0&rowlength=4&store=AU
