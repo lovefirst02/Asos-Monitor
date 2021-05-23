@@ -202,7 +202,7 @@ def newp(url):
                         time.sleep(3)
 
 if __name__ == "__main__":
-    webhook_url = 'https://canary.discordapp.com/api/webhooks/674297005362905088/Y5E_A6w7T3-fwSkDZqZrJcml0Gnm1OLE7lKF-_HqU2Yuqj0Mu_H61O20zUMhjn7KFP0I'
+    webhook_url = 'webhook url here'
 
     sitelist = read_from_txt('asossitelist.txt')
 
