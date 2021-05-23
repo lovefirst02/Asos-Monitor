@@ -112,8 +112,8 @@ def message_post(webhook_url,name,link,imageaddress,price,currency,brand):
         pass
 
 def newp(url):
-    client_id = 'a4fb0ead1d6dec2'
-    client_secret = '2092a24f9c35c4a33e2ccbed1e869a8ffe37160e'
+    client_id = 'Imgur_client_id'
+    client_secret = 'Imgur_client_secret'
     client = ImgurClient(client_id, client_secret)
     album = None
     config = {
