@@ -186,8 +186,7 @@ def newp(url):
                     currency = products[x]['price']['currency']
                     brand = products[x]['brandName']
                     chc = dollar(price,currency)
-                    print(frontcolor.sky("Product Name:" + name + "\nLink:" + link + "\nprice:" + price + '\ncur:' + chc))
-                    #api.push_message('Ub58162dabc1de9b209bdd89b34486d62',TextSendMessage(text= name + "\nLink:" + link + "\nPrice:" + price ))
+                    print(frontcolor.sky("Product Name:" + name + "\nLink:" + link + "\nprice:" + price + '\ncur:' + chc))                    
                     if any(kw in name.lower() for kw in keyword):
                         webhook = DiscordWebhook(url=webhook_url, content='')
                         embed = DiscordEmbed(title=name, color=random.randint(0, 16777215), url=link)
